@@ -1,0 +1,19 @@
+div {
+    color:black;
+    background-color: lightsalmon;
+    height: auto;
+    width: auto;
+    padding: auto;
+    border: 10px solid lightblue;
+}
+
+a{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    
+}
+
+li{
+    color: darkblue;
+}
